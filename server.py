@@ -4,7 +4,7 @@ app =Flask(__name__)
 
 @app.route('/')
 def index():
-  return "<h2>ไฮหยา</h2>" 
+  return "<h2>ฮาโหล</h2>" 
 
 
 if __name__ == '__main__':
